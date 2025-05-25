@@ -8,11 +8,11 @@ All documentation can be found on the [Cicada Read The Docs site](https://cicada
 
 ## Versioning
 
-We use [semantic versioning](http://semver.org/). Current version is 0.10.1. Cicada is still in initial development. Anything may change at any time and the software should not be considered stable.
+We use [semantic versioning](http://semver.org/). Current version is 0.10.7. Cicada is still in initial development. Anything may change at any time and the software should not be considered stable.
 
 ## Authors
 
-- **Rick Wassing**, rick.wassing@sydney.edu.au, Woolcock Institute of Medical Research, The University of Sydney, Australia
+- **Rick Wassing**, rick.wassing@woolcock.org.au, Woolcock Institute of Medical Research, The University of Sydney, Australia
 
 > ### Your help is more than welcome!
 >
